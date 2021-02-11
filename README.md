@@ -20,8 +20,5 @@ Pull requests are welcomed. For major changes, please open an issue first to dis
 
 Happy Coding!!!
 
-# License 
->[MIT License](LICENSE)
-
 ## Copyright
 © Gulbala Salamov
