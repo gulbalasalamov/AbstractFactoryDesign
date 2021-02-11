@@ -6,6 +6,11 @@ In line with guides introduced in Head First Object Oriented Design Analysis & D
 The structure tends to reduce duplicate codes, help objects couple loosely, and make code open for extention but closed for modification.
 Do also note that some data structures may not yet totally draw from more advanved solutions introduced in newer Java versions.
 
+## UML Class Diagram
+
+![Intro Page](https://github.com/gulbalasalamov/AbstractFactoryDesign/blob/master/AbstractFactoryDesign/src/AbstractFactoryPatternUMLClassDiagram.png)
+
+
 ## Demo App
 The demo app put together a system to keep track of computer and smartphone products and helps to match customers with requested items. After initial run, some products are by default added to fill the inventory and it asks owner to add some more products by specifying their specifications. Following by you can search particular item or list of categorized items. 
 
