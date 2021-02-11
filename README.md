@@ -9,7 +9,7 @@ Do also note that some data structures may not yet totally draw from more advanv
 ## Demo App
 The demo app put together a system to keep track of computer and smartphone products and helps to match customers with requested items. After initial run, some products are by default added to fill the inventory and it asks owner to add some more products by specifying their specifications. Following by you can search particular item or list of categorized items. 
 
-<img src="https://github.com/gulbalasalamov/AbstractFactoryDesign/blob/master/DemoGif.gif" alt="Databay showcase gif" title="Databay showcase gif" width="900"/>
+<img src="https://github.com/gulbalasalamov/AbstractFactoryDesign/blob/master/DemoGif.gif" alt="Inventory Management App gif" title="Inventory Management App gif" width="900"/>
 
 # Contributing
 Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
